@@ -28,7 +28,3 @@ The following visualizations were generated during the analysis:
 ![Correlation Graph](ui/correlation_graph.png)
 ![Pair Plot Graph](ui/pair_plot_graph.png)
 ![Scatterplot of Age vs. Heart Disease](ui/scatterplot_age_vs_heart_d.png)
-
-## License
-
-This project is licensed under the MIT License.
