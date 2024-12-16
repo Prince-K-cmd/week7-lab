@@ -25,6 +25,7 @@ The dataset used in this analysis is `heart_data.csv`, which contains various fe
 The following visualizations were generated during the analysis:
 
 ![Boxplot of Heart Disease vs. CA](ui/baxplot_of_heart_d_vs_ca.png)
+![Histogram and Boxplot](ui/histogram_and_boxplot.png)
 ![Correlation Graph](ui/correlation_graph.png)
 ![Pair Plot Graph](ui/pair_plot_graph.png)
 ![Scatterplot of Age vs. Heart Disease](ui/scatterplot_age_vs_heart_d.png)
